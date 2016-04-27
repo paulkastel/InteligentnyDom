@@ -1,0 +1,15 @@
+1. Jako w³aœciciel inteligentnego domu chcê mieæ mo¿liwoœæ logowania siê do systemu aby zautoryzowaæ dane i nikt inny nie móg³ sterowaæ moim domem.
+
+2. Jako w³aœciciel inteligenstego domu chcê mieæ mo¿liwoœæ logowania siê do aplikacji na urz¹dzeniach przenoœnych aby móc zarz¹dzaæ domem z dowolnego miejsca. 
+
+3. Jako w³aœciciel inteligentnego domu chcê ustawiaæ temperaturê aby mieæ cieplej/ch³odniej w domu.
+
+4. Jako w³aœciciel inteligentnego domu chcê ustawiaæ rolety aby regulowaæ ich poziom.
+
+5. Jako w³aœciciel inteligentnego domu chcê w³¹czaæ/wy³¹czaæ œwiat³o aby móc kontrolowaæ poziom zaciemnienia w domu.
+
+6. Jako w³aœciciel inteligentnego domu chcê sterowaæ radiem aby móc w³¹czyæ/wy³¹czyæ/pog³aœniaæ/przyciszaæ/zmieniaæ stacje radio.
+
+7. Jako w³aœciciel inteligentnego domu chcê sterowaæ telewizorem aby zapewniæ sobie rozrywkê.
+
+8. Jako w³aœciciel inteligentnego domu chcê mieæ podgl¹d na obecny stan domu aby móc go swobodnie kontrolowaæ.
